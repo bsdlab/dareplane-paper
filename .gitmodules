@@ -1,0 +1,20 @@
+[submodule "dp-passthrough"]
+	path = dp-passthrough
+	url = https://github.com/bsdlab/dp-passthrough
+	branch = main
+[submodule "dp-threshold-controller"]
+	path = dp-threshold-controller
+	url = https://github.com/bsdlab/dp-threshold-controller
+	branch = main
+[submodule "dp-arduino-stimulator"]
+	path = dp-arduino-stimulator
+	url = https://github.com/bsdlab/dp-arduino-stimulator
+	branch = main
+[submodule "dp-cortec-bic"]
+	path = dp-cortec-bic
+	url = https://github.com/bsdlab/dp-cortec-bic
+	branch = main
+[submodule "dp-ao-communication"]
+	path = dp-ao-communication
+	url = https://github.com/bsdlab/dp-ao-communication
+	branch = main
