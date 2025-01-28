@@ -5,9 +5,7 @@ This repo collects the [Dareplane](https://github.com/bsdlab/Dareplane) modules 
 
 ![test_setups](all_benchtops_setup_v4.png)
 
-All raw data and analysis scripts, including for the patient and c-VEP experiments, will be made available at the Radboud data repository - [https://doi.org/10.34973/d214-m342](https://doi.org/10.34973/d214-m342). The repository is currently under the FAIR review process, but should be released within the next 5 days (as of December 1st, 2024).
-
-## Modules for benchtop experiments
+All raw data and analysis scripts, including for the patient and c-VEP experiments, is available at the Radboud data repository - [https://doi.org/10.34973/d214-m342](https://doi.org/10.34973/d214-m342).
 
 All test setups used the [dp-passthrough](https://github.com/bsdlab/dp-passthrough) and [dp-threshold-controller](https://github.com/bsdlab/dp-threshold-controller).
 
